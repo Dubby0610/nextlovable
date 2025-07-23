@@ -38,7 +38,7 @@ This boilerplate **reverse-engineers** the magic behind [Lovable's](https://lova
 
 ```bash
 # Clone the repository
-git clone https://github.com/chihebnabil/lovable-boilerplate.git
+git clone https://github.com/Dubby0610/lovable-boilerplate.git
 cd lovable-boilerplate
 
 # Install dependencies (npm, yarn, or bun)
